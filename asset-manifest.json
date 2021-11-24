@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CompanyWork/static/css/main.4f3786b5.chunk.css",
+    "main.js": "/CompanyWork/static/js/main.3a4de5a4.chunk.js",
+    "main.js.map": "/CompanyWork/static/js/main.3a4de5a4.chunk.js.map",
+    "runtime-main.js": "/CompanyWork/static/js/runtime-main.7bc86c0d.js",
+    "runtime-main.js.map": "/CompanyWork/static/js/runtime-main.7bc86c0d.js.map",
+    "static/js/2.da646168.chunk.js": "/CompanyWork/static/js/2.da646168.chunk.js",
+    "static/js/2.da646168.chunk.js.map": "/CompanyWork/static/js/2.da646168.chunk.js.map",
+    "static/js/3.74050d98.chunk.js": "/CompanyWork/static/js/3.74050d98.chunk.js",
+    "static/js/3.74050d98.chunk.js.map": "/CompanyWork/static/js/3.74050d98.chunk.js.map",
+    "index.html": "/CompanyWork/index.html",
+    "static/css/main.4f3786b5.chunk.css.map": "/CompanyWork/static/css/main.4f3786b5.chunk.css.map",
+    "static/js/2.da646168.chunk.js.LICENSE.txt": "/CompanyWork/static/js/2.da646168.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "CompanyWork/static/js/runtime-main.7bc86c0d.js",
+    "CompanyWork/static/js/2.da646168.chunk.js",
+    "CompanyWork/static/css/main.4f3786b5.chunk.css",
+    "CompanyWork/static/js/main.3a4de5a4.chunk.js"
+  ]
+}
